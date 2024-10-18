@@ -11,8 +11,8 @@
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
-<img align='Right' src="https://profile-counter.glitch.me/gaoxiaoxin/count.svg" width="200">
-
 #### 博文平台
 掘金: https://juejin.cn/user/853635723437886
+
+<img align='Right' src="https://profile-counter.glitch.me/gaoxiaoxin/count.svg" width="200">
 
